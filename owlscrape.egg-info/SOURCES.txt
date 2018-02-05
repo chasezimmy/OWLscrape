@@ -1,0 +1,7 @@
+README.md
+setup.py
+owlscrape.egg-info/PKG-INFO
+owlscrape.egg-info/SOURCES.txt
+owlscrape.egg-info/dependency_links.txt
+owlscrape.egg-info/entry_points.txt
+owlscrape.egg-info/top_level.txt
