@@ -5,3 +5,4 @@ OWL/
 __pycache__/
 example/
 *.pyc
+owlscrape.egg-info/
